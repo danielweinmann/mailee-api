@@ -100,7 +100,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://help.mailee.me/integration_rails.html}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{Gem de integração do Mailee.me}
+  s.summary = %q{Gem de integracao do Mailee.me}
   s.test_files = [
     "spec/am_spec_helper.rb",
     "spec/ar_spec_helper.rb",
